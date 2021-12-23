@@ -41,7 +41,7 @@ function displayFact(e) {
 const animalFacts = (
   <div>
     <h1>
-      {title || 'click on an animal for a fun fact!'}
+      {title || 'Web Harvy timings'}
     </h1>
     {showBackground && background}
     <div className = 'animals'>
